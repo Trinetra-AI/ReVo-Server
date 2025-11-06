@@ -1,0 +1,4 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+firebase-admin==6.2.0
+gunicorn==21.2.0
